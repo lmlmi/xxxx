@@ -1,4 +1,4 @@
-{"urls": [
+{"urls":[
 {"url": "https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/9.26%E7%A6%8F%E5%88%A9.txt","name":"18线路"},
 {"url": "https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/18+.txt","name":"18+线路"},
 {"url": "https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/18jin.json","name":"18jin线路"},
